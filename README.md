@@ -6,7 +6,7 @@ The **Cool ToolBar** is a sleek, modern, and fully-featured desktop application 
 
 ## **Features**
 
-### **1. Show Current Date**
+### **1. Show Current Date**  
 - Displays the current date in a clean and readable format (e.g., "Monday, October 30, 2023").
 - Automatically updates in real-time.
 
